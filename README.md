@@ -1,8 +1,8 @@
 # #boraCodar
 
 <p align="center">
-    Projetos #boraCodar da Rocketseat <br>
-    <a href="https://boracodar.dev">Acesse o desafio desta semana clicando aqui</a><br>
+    #boraCordar evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+    O evento conta com 16 desafios e você pode acessa-los logo abaixo:
     <br><table>
     <thead>
         <tr>
@@ -16,7 +16,7 @@
                 <img width="300" height="1"> 
                 <p> 
                     <small>
-                        NAME
+                        TÍTULO
                     </small>
                 </p>
             </th>
@@ -24,7 +24,7 @@
                 <img width="140" height="1">
                 <p align="left"> 
                     <small>
-                    RELEASE DATE
+                    LANÇAMENTO
                     </small>
                 </p>
             </th>
@@ -32,7 +32,7 @@
                 <img width="201" height="1">
                 <p align="center"> 
                     <small>
-                    PREVIEW
+                    PRÉVIA
                     </small>
                 </p>
             </th>
