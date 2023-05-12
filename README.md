@@ -49,7 +49,7 @@
         <tr>
             <td>02</td>
             <td><a href="02">Product Card</a></td>
-            <td>Em breve</td>
+            <td>12/05/23</td>
             <td align="center"><a href="02"><img width="300px" src="02/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
